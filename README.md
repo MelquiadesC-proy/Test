@@ -1,2 +1,7 @@
 # Test
-Este es un proyecto de prueba Github
+Repositorio de prueba para induccion Github
+
+
+## 1) Python
+
+## 2) R
